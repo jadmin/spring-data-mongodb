@@ -1,0 +1,16 @@
+
+5.1.1. Required Jars
+The following jars are required to use Spring Data Mongo
+    spring-data-mongodb-1.0.0.M3.jar
+    spring-data-commons-1.1.0.M1.jar
+
+In addition to the above listed Spring Data jars you need to provide the following dependencies:
+    aopalliance-1.0.0.jar
+    commons-logging-1.1.1.jar
+    mongo-java-driver-2.5.3.jar
+    spring-aop-3.0.5.RELEASE.jar
+    spring-asm-3.0.5.RELEASE.jar
+    spring-beans-3.0.5.RELEASE.jar
+    spring-context-3I.0.5.RELEASE.jar
+    spring-core-3.0.5.RELEASE.jar
+    spring-expression-3.0.5.RELEASE.jar
